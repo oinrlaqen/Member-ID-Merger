@@ -12,7 +12,7 @@
 > **Time w/o script:** 15 min * 61 = 915 min\
 > **Time with script:** 80 minutes
 
-**Starting from February 2026 little more than 3000 IDs have already been loaded using this script.**
+**Starting from February 2026 little more than 3000 IDs from 303 files have already been loaded using this script.**
 
 As a result of implementing a new workflow our team now has the third week of the month completely free from loading IDs
 
